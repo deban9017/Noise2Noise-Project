@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore folders test_images
+test_images/
+train_images/
+train_images_200k/
+train_images_500/
+test_images_50/
+validation_images_100/
+images_bsd300/
+
+# Ignore python file
+train_images_copying.py
