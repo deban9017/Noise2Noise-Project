@@ -1,5 +1,8 @@
 **This is an implementation of the 2018 paper Noise2Noise and 2023 paper Zero-Shot Noise2Noise, for our AIML  course project.**
 
+- **Report**: ```N2N_Review_Report.pdf```
+- **Presentation**: ```N2N_presentation.pdf```
+
 The dataset folders have been git ignored.
 Find the datasets here:
 1. [Admiral](https://www.kaggle.com/datasets/dimensi0n/imagenet-256?select=admiral) : 0.jpg to 490.jpg for train_images and rest for test_images.
