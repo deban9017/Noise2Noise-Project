@@ -1,5 +1,5 @@
 **This is an implementation of the 2018 paper Noise2Noise and 2023 paper Zero-Shot Noise2Noise, for our AIML  course project.**
-*This was done in collaboration with [Swarnava Chakraborty](github.com/swarnava1207), Vipul Tejwani and Omar Muhammad.*
+*This was done in collaboration with [Swarnava Chakraborty](https://github.com/swarnava1207), Vipul Tejwani and Omar Muhammad.*
 
 - **Report**: ```N2N_Review_Report.pdf```
 - **Presentation**: ```N2N_presentation.pdf```
